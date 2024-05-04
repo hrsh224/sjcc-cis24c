@@ -1,6 +1,8 @@
 # SJCC-CIS24C
 
-### This is an Introductory Level Python course in San Jose City College that I took in Spring'24
+### This is an Introductory Level Python course in San Jose City College that I took in Spring'24. The following topics were covered in this course.
+
+1. abcdef
 
 #### Lesson 1 - Python Introduction
 
